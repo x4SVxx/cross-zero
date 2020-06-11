@@ -1,0 +1,10 @@
+E:\XO\bin\Debug\XO.exe.config
+E:\XO\bin\Debug\XO.exe
+E:\XO\bin\Debug\XO.pdb
+E:\XO\obj\Debug\XO.csprojAssemblyReference.cache
+E:\XO\obj\Debug\XO.Form1.resources
+E:\XO\obj\Debug\XO.Properties.Resources.resources
+E:\XO\obj\Debug\XO.csproj.GenerateResource.cache
+E:\XO\obj\Debug\XO.exe
+E:\XO\obj\Debug\XO.pdb
+E:\XO\obj\Debug\XO.Form2.resources
